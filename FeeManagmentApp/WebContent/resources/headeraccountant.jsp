@@ -36,7 +36,7 @@ li a:hover:not(.active) {
 <body>
 
 <ul>
-  <li><a href="https://github.com/PoKeM0oN2">Github</a></li>
+  <li><a href="https://github.com/alexdg722">Github</a></li>
   <li><a href="<%= request.getContextPath() %>/addstudent" class="nav-link">Add Student</a></li>
   <li><a href="<%= request.getContextPath() %>/viewstudent" class="nav-link">View Students</a></li>
   <li><a href="<%= request.getContextPath() %>/duefee" class="nav-link">Due Fee</a></li>
